@@ -1,27 +1,18 @@
 language: cpp
-
-compiler:
-- gcc
-- clang
 os:
- - linux
-
-jobs:
-  include:
-  - name: "all projects"
-    script:
-    - cmake -H. -B_build
-    - cmake --build _build
-  - name: "each CMakeLists.txt"
-
-script:
-- source ./script
-
+  - linux
 addons:
   apt:
     sources:
-      - george-edison55-precise-backports
+    - george-edison55-precise-backports
     packages:
-      - cmake
-      - cmake-data
-
+    - cmake
+    - cmake-data
+before_install:
+- pip install --user cpp-coveralls
+script:
+- cmake -H. -B_build -DBUILD_TESTS=ON
+- cmake --build _build
+- cmake --build _build --target test -- ARGS=--verbose
+after_success:
+- coveralls --root . -E ".*gtest.*" -E ".*CMakeFiles.*"
