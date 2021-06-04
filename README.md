@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/navckin/lab051.svg?branch=main)](https://travis-ci.com/navckin/lab051)
+[![Coverage Status](https://coveralls.io/repos/github/navckin/lab051/badge.svg?branch=homework)](https://coveralls.io/github/navckin/lab051?branch=homework)
 ## Laboratory work V
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
