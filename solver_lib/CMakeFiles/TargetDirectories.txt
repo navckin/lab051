@@ -1,3 +1,0 @@
-/home/anya/navckin/workspace/tasks/lab03/lab03/solver_lib/CMakeFiles/rebuild_cache.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/solver_lib/CMakeFiles/edit_cache.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/solver_lib/CMakeFiles/solver_lib.dir

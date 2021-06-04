@@ -1,9 +1,0 @@
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/CMakeFiles/rebuild_cache.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/CMakeFiles/edit_cache.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/CMakeFiles/hello_world.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/formatter_ex_lib/CMakeFiles/edit_cache.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/formatter_ex_lib/CMakeFiles/formatter_ex.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/formatter_ex_lib/formatter_lib/CMakeFiles/rebuild_cache.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/formatter_ex_lib/formatter_lib/CMakeFiles/edit_cache.dir
-/home/anya/navckin/workspace/tasks/lab03/lab03/hello_world_application/formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir
